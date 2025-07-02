@@ -1,0 +1,40 @@
+----------------------------------------------------------------
+Enlaces de acceso a los repositorios:
+----------------------------------------------------------------
+
+-------------------------------
+Repositorio en Google Drive:
+-------------------------------
+
+https://drive.google.com/drive/folders/1PBhoy1RWmGVuXi0Ej2Lj3E36PyPhKC6O?usp=sharing
+
+
+-------------------------------
+Repositorio en Github:
+-------------------------------
+
+https://github.com/AntonioAnchondo56/ProyectoABGSA
+
+----------------------------------------------------------------
+Le proporcionamos los enlaces de acceso a nuestros entregables:
+----------------------------------------------------------------
+
+-------------------------------
+1. Código fuente:
+Puede acceder mediante google colab o descargando el archivo en el drive.
+
+https://colab.research.google.com/drive/1U1vhrc8wbhsBiJ4qnSRoDtpXm6PBiHCf?usp=sharing
+
+
+2. Artículo de investigación en formato de latex:
+Puede visualizarlo en este enlace de overleaf o descargándolo en el drive
+
+https://www.overleaf.com/4818138627fgzhqdfgwdhs#447536
+
+
+3. Video muestra en YouTube:
+De igual manera, puede acceder con el siguiente enlace o en el drive
+
+https://youtu.be/j1O6FdOKzJY
+
+-------------------------------
